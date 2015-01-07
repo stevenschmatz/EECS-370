@@ -1,4 +1,4 @@
 # Summary
 
 * [Introduction](README.md)
-* [Lecture Notes]
+* [Lecture Notes](Lecture_Notes/README.md)
