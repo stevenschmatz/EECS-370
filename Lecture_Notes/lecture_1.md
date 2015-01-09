@@ -33,6 +33,8 @@ We were asked to find statistics about the CPU chip of our phone. For reference,
 
 ## History of Computers
 
+### Breakthrough Computers
+
 * "Astrolavos" Antikythera Mechanism (65 BC)
     * **First computer**
     * Purpose: Chronological data entry to calculate moon phases, rise/set of moon and planets
@@ -53,6 +55,19 @@ We were asked to find statistics about the CPU chip of our phone. For reference,
     * **First backwards compatible computer**
     * Important because you didn't have to rewrite software every time for a new machine
     * Standardized the instruction set architecture
+* Intel 4004 (1971)
+    * **First microprocessor**
+    * All devices needed for a computer were in this chip
+* Intel 8086 (1979)
+    * **Introduced the modern instruction set, x86**
+    * x86 has become really messy, since to be backwards compatible instructions can only be added, *but never deleted!*
+* Intel 80486 (1989)
+    * **Introduced pipelining** (similar to an assembly line for information)
+
+### Some other historic trends
+
+* **Moore's Law**: The number of transistors doubles every 18 months.
+    * Not really a scientific law, but a motivating guideline to  computer engineering employees. Slowing down.
 
 ## Random Stuff
 
