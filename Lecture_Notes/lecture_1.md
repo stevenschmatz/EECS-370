@@ -45,6 +45,14 @@ We were asked to find statistics about the CPU chip of our phone. For reference,
     * In fact, a part of it can be found at the entrance of the BBB at the University of Michigan!
     * 18000 vacuum tubes, 1800 instructions/sec, 3000 cubic feet
     * Problem: could not store information
+* EDSAC (1949)
+    * **First stored program computer**
+    * Stored information in mercury
+    * 650 instructions/sec, 1400 cubic feet
+* IBM Mainframe computer or IBM 360 (1970)
+    * **First backwards compatible computer**
+    * Important because you didn't have to rewrite software every time for a new machine
+    * Standardized the instruction set architecture
 
 ## Random Stuff
 
