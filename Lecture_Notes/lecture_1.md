@@ -37,6 +37,14 @@ We were asked to find statistics about the CPU chip of our phone. For reference,
     * **First computer**
     * Purpose: Chronological data entry to calculate moon phases, rise/set of moon and planets
     * Brass cogwheel system
+* Charles Babbage's *envisioned* Analytic Engine (1834)
+    * **First modern computer**
+    * Takes a large polynomial and distributes smaller computations to human computers
+* ENIAC (1946)
+    * **First electronic computer**
+    * In fact, a part of it can be found at the entrance of the BBB at the University of Michigan!
+    * 18000 vacuum tubes, 1800 instructions/sec, 3000 cubic feet
+    * Problem: could not store information
 
 ## Random Stuff
 
