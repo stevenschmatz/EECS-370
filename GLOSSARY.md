@@ -7,3 +7,7 @@ A well-defined hardware/software interface that consists of:
 * A **precise description** of how to invoke and access them
 
 [Further reading.](https://www.cis.upenn.edu/~milom/cis501-Fall05/lectures/02_isa.pdf)
+
+# Processor Microarchitecture
+
+The way that an Instruction Set Architecture is implemented on a processor.
