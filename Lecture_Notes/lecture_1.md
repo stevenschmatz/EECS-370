@@ -68,6 +68,11 @@ We were asked to find statistics about the CPU chip of our phone. For reference,
 
 * **Moore's Law**: The number of transistors doubles every 18 months.
     * Not really a scientific law, but a motivating guideline to  computer engineering employees. Slowing down.
+    * Basically the most well-known "law" in computer science
+* **Denard Scaling**: As transistors become smaller, their power density stays the same.
+    * The trend broke in the mid-2000s. Transistors got so small that they began to leak a lot of power.
+    * You can use lots of transistors on a chip, but not all at full power at the same time.
+    * Instead of making all the cores the same, if you can make each different then you will have a better chip.
 
 ## Random Stuff
 
