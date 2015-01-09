@@ -33,6 +33,11 @@ We were asked to find statistics about the CPU chip of our phone. For reference,
 
 ## History of Computers
 
+* "Astrolavos" Antikythera Mechanism (65 BC)
+    * **First computer**
+    * Purpose: Chronological data entry to calculate moon phases, rise/set of moon and planets
+    * Brass cogwheel system
+
 ## Random Stuff
 
 * NAND gates are *universal gates*: that is, you can build any logical circuit with them.
