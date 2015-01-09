@@ -1,4 +1,4 @@
-STATS 250
+EECS 370
 =========
 
 This Gitbook hosts the collection of all of my resources from [EECS 370](http://www.eecs.umich.edu/courses/eecs370/eecs370.w15/) for the Winter 2015 semester:
