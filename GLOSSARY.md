@@ -12,3 +12,4 @@ The way that an Instruction Set Architecture is implemented on a processor.
 A trend that states that the number of transistors doubles every 18 months.
 
 # Denard Scaling
+A trend that states that as transistors become smaller, their power density stays the same.
