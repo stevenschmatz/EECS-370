@@ -7,3 +7,8 @@ A well-defined hardware/software interface that consists of a **functional defin
 # Processor Microarchitecture
 
 The way that an Instruction Set Architecture is implemented on a processor.
+
+# Moore's Law
+A trend that states that the number of transistors doubles every 18 months.
+
+# Denard Scaling
