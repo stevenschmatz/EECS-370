@@ -59,6 +59,16 @@ int main() {
 }
 ```
 
+#### Strings in C
+
+There is no `string` type in C. Use `char *` or `char[]` instead.
+
+```c
+char *text = "Hello";
+char text[] = {'H', 'e', 'l', 'l', 'o', '\0'};
+```
+
+**Do not forget the null sentinel**, if using list initialization!
 
 
 
