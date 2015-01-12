@@ -114,10 +114,17 @@ Use this instead of `new` and `delete`.
 
 ## Debugging
 
+##### Common bugs
+
 * Seg faults
 * Memory leaks
 * Infinite loops
 
+##### Common solutions
+
+* Shout at computer
+* `cout` statements, if you're a noob
+* Breakpoints and `gdb`.
 
 
 
