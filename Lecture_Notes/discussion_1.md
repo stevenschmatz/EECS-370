@@ -17,10 +17,11 @@ The CPU understands binary (0 and 1), so `gcc` or `g++` converts your C code to 
 
 ## C vs C++ differences
 
-##### C
+### C
 A racing car that goes incredibly fast, but breaks down every fifty miles.
 
-Features not in C:
+#### Features not in C
+
 * Classes and objects
 * Namespaces
 * `new` and `delete`
@@ -29,7 +30,7 @@ Features not in C:
 * `string` datatype
 * Pass by reference (`&`)
 
-##### C++
+### C++
 An advanced version of the C racing car, with lots of improvements and dozens of extra features that increase the breaking down limit to 250 miles.
 
 
