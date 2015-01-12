@@ -20,7 +20,7 @@ The CPU understands binary (0 and 1), so `gcc` or `g++` converts your C code to 
 ##### C
 A racing car that goes incredibly fast, but breaks down every fifty miles.
 
-*Features not in C*:
+**Features not in C**:
 * Classes and objects
 * Namespaces
 * `new` and `delete`
