@@ -112,5 +112,6 @@ free(foo);
 
 Use this instead of `new` and `delete`.
 
+## Debugging
 
 
