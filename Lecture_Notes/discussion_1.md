@@ -84,7 +84,18 @@ copy = text;
 
 Both `text` and `copy` are pointing to the same address of the string. If `text` is changed, so is `copy`, and you might not want that.
 
+##### String comparison
 
+What's wrong with this?
+
+```c
+char *text = "Hello";
+if (text == "Hello") {
+    // ...
+}
+```
+
+It is comparing a `char *` of the memory location of the string `text`, to the memory address of a local string `"Hello"`. This would always return false.
 
 
 
