@@ -21,7 +21,7 @@ The CPU understands binary (0 and 1), so `gcc` or `g++` converts your C code to 
 A racing car that goes incredibly fast, but breaks down every fifty miles.
 
 ##### C++
-An advanced version of the C racing car with lots of improvements and dozens of extra features that increase the breaking down limit to 250 miles.
+An advanced version of the C racing car, with lots of improvements and dozens of extra features that increase the breaking down limit to 250 miles.
 
 
 ##### Assembly
