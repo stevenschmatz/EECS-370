@@ -132,7 +132,7 @@ Use this instead of `new` and `delete`.
 * Breakpoints and `gdb`.
 * 
 
-### GDB
+### GDB abilities
 
 * Stack frame (backtrace)
     * All the function calls which were made before the error occurred
