@@ -34,11 +34,11 @@ A racing car that goes incredibly fast, but breaks down every fifty miles.
 An advanced version of the C racing car, with lots of improvements and dozens of extra features that increase the breaking down limit to 250 miles.
 
 
-##### Assembly
+### Assembly
 
 You are the car. It breaks down every few feet.
 
-#### C examples
+## C examples
 
 Hello world:
 ```c
