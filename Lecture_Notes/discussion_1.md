@@ -114,4 +114,17 @@ Use this instead of `new` and `delete`.
 
 ## Debugging
 
+* Seg faults
+* Memory leaks
+
+
+
+
+
+
+
+
+
+
+
 
