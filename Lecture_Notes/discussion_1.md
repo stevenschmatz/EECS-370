@@ -61,6 +61,8 @@ int main() {
 
 #### Strings in C
 
+##### Initializing strings
+
 There is no `string` type in C. Use `char *` or `char[]` instead.
 
 ```c
@@ -70,6 +72,16 @@ char text[] = {'H', 'e', 'l', 'l', 'o', '\0'};
 
 **Do not forget the null sentinel**, if using list initialization!
 
+##### Copying strings
+
+What's wrong with this?
+```c
+char *text = "Hello";
+char *copy;
+copy = text;
+```
+
+Both `text` and `copy` are pointing to the same address of the string. If `text` is changed, so is `copy`, and you might not want that.
 
 
 
