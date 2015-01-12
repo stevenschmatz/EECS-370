@@ -39,6 +39,7 @@ You are the car. It breaks down every few feet.
 
 #### C examples
 
+Hello world:
 ```c
 #include <stdio.h>
 int main() {
@@ -46,6 +47,15 @@ int main() {
 }
 ```
 
+Printing numbers, zero through 9:
+
+```c
+#include <stdio.h>
+int i;
+for (int i = 0; i < 10; i++) {
+    printf("i = %d\n", i);
+}
+```
 
 
 
