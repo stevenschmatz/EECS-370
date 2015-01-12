@@ -127,9 +127,19 @@ Use this instead of `new` and `delete`.
 * `cout` statements, if you're a noob
     * If you encounter a segfault, `cout` isn't going to save you.
 
+###### Good:
+
 * Breakpoints and `gdb`.
+* 
 
+### GDB
 
+* Stack frame (backtrace)
+    * All the function calls which were made before the error occurred
+* Breakpoint
+    * Help monitor a particular statement
+* Step execution (step)
+    * Go statement by statement to narrow donw the code region for finding bug
 
 
 
