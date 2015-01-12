@@ -98,8 +98,15 @@ if (text == "Hello") {
 
 It is comparing a `char *` of the memory location of the string `text`, to the memory address of a local string `"Hello"`. This would always return false.
 
+```
+int *foo;
+foo = (int *) malloc(sizeof(int));
+*foo = 5;
 
+// ...
 
+free(foo);
+```
 
 
 
