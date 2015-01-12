@@ -42,7 +42,7 @@ You are the car. It breaks down every few feet.
 ```c
 #include <stdio.h>
 int main() {
-    
+    printf("Hello World");
 }
 ```
 
