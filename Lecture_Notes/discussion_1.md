@@ -13,4 +13,4 @@ The CPU understands binary (0 and 1), so `gcc` or `g++` converts your C code to 
     * Most widely used notation for binary numbers.
 * Examples
     * `int x = 5;`. The real storage in the computer is `00000101`, since `int`s are allocated 8 bits.
-    * `int x = -5;`. The real storage in the computer is `11111011`.
+    * `int x = -5;`. The real storage in the computer is `11111011`, according to two's complement notation.
