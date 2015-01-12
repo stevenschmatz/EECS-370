@@ -98,9 +98,11 @@ if (text == "Hello") {
 
 It is comparing a `char *` of the memory location of the string `text`, to the memory address of a local string `"Hello"`. This would always return false.
 
+### Memory Allocation in C
+
 ```
 int *foo;
-foo = (int *) malloc(sizeof(int));
+foo = (int *) malloc(sizeof(int)); // Allocates memory for int
 *foo = 5;
 
 // ...
@@ -108,6 +110,7 @@ foo = (int *) malloc(sizeof(int));
 free(foo);
 ```
 
+Use this instead of `new` and `delete`.
 
 
 
