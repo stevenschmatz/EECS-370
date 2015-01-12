@@ -116,6 +116,7 @@ Use this instead of `new` and `delete`.
 
 * Seg faults
 * Memory leaks
+* Infinite loops
 
 
 
