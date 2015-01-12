@@ -75,6 +75,7 @@ char text[] = {'H', 'e', 'l', 'l', 'o', '\0'};
 ##### Copying strings
 
 What's wrong with this?
+
 ```c
 char *text = "Hello";
 char *copy;
