@@ -141,9 +141,9 @@ Use this instead of `new` and `delete`.
 * Step execution (step)
     * Go statement by statement to narrow donw the code region for finding bug
 
+### Lecture 1 add-on
 
-
-
+General purpose processor is a general processor, in contrast to an ASIC processor which is an Application Specific Integrated Circuit.
 
 
 
