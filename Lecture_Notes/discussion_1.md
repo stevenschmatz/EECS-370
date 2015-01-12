@@ -122,7 +122,7 @@ Use this instead of `new` and `delete`.
 
 ##### Common solutions
 
-###### Bad
+###### Bad:
 * Shout at computer
 * `cout` statements, if you're a noob
     * If you encounter a segfault, `cout` isn't going to save you.
