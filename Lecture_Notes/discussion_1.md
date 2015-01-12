@@ -60,7 +60,7 @@ int main() {
 }
 ```
 
-#### Strings in C
+### Strings in C
 
 ##### Initializing strings
 
