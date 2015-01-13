@@ -16,3 +16,13 @@ There are a few things to note here:
 * ISA instructions can be somewhat overlapping in function - the `forward` and `run` commands are pretty similar in purpose, but one allows you to specify the speed at which it runs. The choice to use more, overlapping instructions for specific purposes, instead of fewer, more general commands, *is actually an active debate!*
 
 ## ISA Design – Freedom and Choices
+
+ISA design focuses on 3 main aspects:
+
+#### Functionality
+
+* Add, multiply, divide, sqrt
+* Branching
+* Load/store
+* `mmx_add`
+    * higher level vector addition operations, not covered in this EECS 370.
