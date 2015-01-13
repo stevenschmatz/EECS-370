@@ -14,3 +14,5 @@ There are a few things to note here:
 
 * ISA instructions can define **operands**, such as the operand `speed` for the `forward` command.
 * ISA instructions can be somewhat overlapping in function - the `forward` and `run` commands are pretty similar in purpose, but one allows you to specify the speed at which it runs. The choice to use more, overlapping instructions for specific purposes, instead of fewer, more general commands, *is actually an active debate!*
+
+## ISA Design – Freedom and Choices
