@@ -31,7 +31,12 @@ ISA design focuses on 3 main aspects:
     * The compiler usually does the optimization of whether to store a variable in registers or DRAM.
 * `mmx_add`
     * higher level vector addition operations, not covered in this EECS 370.
-    * 
+
+#### Storage
+
+* How many registers should be available?
+* How much memory should be available in DRAM?
+* What is the architecture of the storage?
 
 
 
