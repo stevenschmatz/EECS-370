@@ -73,6 +73,7 @@ To see the assembly code produced from a C program, use:
 gcc -S filename.c
 ```
 
+This produces a file, `filename.s`, which contains the assembly code.
 
 
 
