@@ -107,7 +107,11 @@ If the initial value of the registers is the following:
 
 What is the final result of the registers after the program executes?
 
+#### Answer
 
+* **R1**: 25
+* **R2**: 38
+* **R3**: 63
 
 
 
