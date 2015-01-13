@@ -48,6 +48,8 @@ ISA design focuses on 3 main aspects:
 
 ## Instruction Encoding
 
+#### RISC vs CISC
+
 
 
 
