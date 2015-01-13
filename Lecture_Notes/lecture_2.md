@@ -130,7 +130,9 @@ add     r3      r2      r1
 #### Bits and Encoding
 
 \\(m\\) bits can encode \\(2^m\\) different values.
-\\(n\\) values can be encoded in \\(\lceil \log_2(n) \rceil\\)
+\\(n\\) values can be encoded in \\(\lceil \log_2(n) \rceil\\) bits
+
+
 
 
 
