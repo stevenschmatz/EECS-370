@@ -22,7 +22,7 @@ ISA design focuses on 3 main aspects:
 #### Functionality
 
 * **Arithmetic functions**: `add`, `multiply`, `divide`, `sqrt`
-    * Some of these may be overlapping in function, such as multiply and divide. However, hardware implementation of these functions may differ, such that 
+    * Some of these may be overlapping in function, such as multiply and divide. However, hardware implementation of these functions may differ, so those operations are more efficient.
 * Branching
 * Load/store
 * `mmx_add`
