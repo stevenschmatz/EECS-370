@@ -137,6 +137,9 @@ add     r3      r2      r1
 What is the max number of registers that can be designed by a machine given:
 * 16 bit instructions
 * Num opcodes: 100
+* All instructions are of form `(reg1, reg2) -> reg3`
+
+Size of opcode: \\(\lceil \log_2 (100) \rceil = 7\\), 9 bits remain. Since there are three arguments, `reg1`, `reg2`, and `reg3`, each register number must have 3 bits. Hence, there are \\(2^3 = 8\\) possible registers.
 
 
 
