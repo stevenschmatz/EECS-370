@@ -143,6 +143,16 @@ Size of opcode: \\(\lceil \log_2 (100) \rceil = 7\\), 9 bits remain. Since there
 
 As a side note, x86 is 64-bit, which means that many bits are unused. This allows for many more opcodes in the future – which helps CISC goals.
 
+## Storage Architecture
+
+* **Immediate values** are when you specify constants in instructions.
+* Data can also be stored in registers, which are used to hold values in the middle of operations.
+* DRAM is for longer-term storage, when data needs to be in your program memory but doesn't need to be used *right now.*
+* Strange storage...
+    * Along the lines of the history of computers, people have come up with some weird storage schemas. But they failed. So we don't talk about them.
+
+## Immediate Values
+
 
 
 
