@@ -127,7 +127,10 @@ add     r3      r2      r1
 = 11011011010001
 ```
 
+#### Bits and Encoding
 
+\\(m\\) bits can encode \\(2^m\\) different values.
+\\(n\\) values can be encoded in \\(\lceil \log_2(n) \rceil\\)
 
 
 
