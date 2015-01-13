@@ -75,6 +75,10 @@ gcc -S filename.c
 
 This produces a file, `filename.s`, which contains the assembly code.
 
+## Assembly Code
+
+Consists 
+
 
 
 
