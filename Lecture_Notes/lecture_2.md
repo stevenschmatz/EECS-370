@@ -52,8 +52,10 @@ ISA design focuses on 3 main aspects:
 
 * A *RISC instruction set* is a Reduced Instruction Set Computer.
     * An instruction set with fewer, more simple commands for general purposes.
-    * **Benefits**: 
+    * **Benefits**: More efficient instructions
+    * **Drawbacks**: Less specialized commands for programmers; worse backwards compatibility.
     * **Examples**: ARM, LC2K (what we emulate in EECS 370)
+* A *CISC isntruction set* is a Complex Instruction Set Computer.
 
 
 
