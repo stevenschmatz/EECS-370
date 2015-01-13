@@ -61,6 +61,10 @@ ISA design focuses on 3 main aspects:
     * **Drawbacks**: Reduces efficiency of each instruction.
     * **Examples**: x86 (which we use today!), UAX
 
+In specialized instruction sets, programmers are actually given a CISC instruction set which is internally converted to a RISC instruction set (with the necessary overhead, of course).
+
+## Software Porgram
+
 
 
 
