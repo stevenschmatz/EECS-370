@@ -28,6 +28,7 @@ ISA design focuses on 3 main aspects:
 * **Load/store**: Moving data from one place to another. Usually involves moving information from the *processor registers* to the *DRAM*. 
     * The processor registers are memory storage units directly in the processor, that allow for extremely fast read/write times. However, in most computers, the registers only have memory to store about **16 integers**. 
     * The DRAM, on the other hand, can store much, much more, but the read/write speed is on the order of magnitude of hundreds of clock cycles.
+    * The compiler usually does the optimization of whether to store a variable in registers or DRAM.
 * `mmx_add`
     * higher level vector addition operations, not covered in this EECS 370.
     * 
