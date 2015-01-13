@@ -56,6 +56,7 @@ ISA design focuses on 3 main aspects:
     * **Drawbacks**: Less specialized commands for programmers; worse backwards compatibility.
     * **Examples**: ARM, LC2K (what we emulate in EECS 370)
 * A *CISC isntruction set* is a Complex Instruction Set Computer.
+    * Philosophy: More commands are better. "Should we need include a `sqrt` function? Why not?"
     * **Benefits**: More specialized commands for programmers, better backwards compatibility.
 
 
