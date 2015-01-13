@@ -65,7 +65,7 @@ In specialized instruction sets, programmers are actually given a CISC instructi
 
 ## Translation of Software into Machine Code
 
-First, you have a C program. The C program is then compiled into assembly code. This produces platform-specific instructions. For example, while iPhone compilation produces ARM assembly code, 
+First, you have a C program. The C program is then compiled into assembly code. This produces platform-specific instructions. For example, while iPhone compilation produces ARM assembly code, Intel compilation produces x86 code.
 
 
 
