@@ -38,6 +38,14 @@ ISA design focuses on 3 main aspects:
 * How much memory should be available in DRAM?
 * What is the architecture of the storage?
 
+#### Operands
+
+* How should instructions be formatted?
+* Can you have 0, 1, 2, or more operands?
+* How are **immediate operands** handled?
+
+**Side note**: *Immediate operands* are constants in the instruction code, rather than using a variable such as a register.
+
 
 
 
