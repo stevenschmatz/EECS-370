@@ -141,6 +141,8 @@ What is the max number of registers that can be designed by a machine given:
 
 Size of opcode: \\(\lceil \log_2 (100) \rceil = 7\\), 9 bits remain. Since there are three arguments, `reg1`, `reg2`, and `reg3`, each register number must have 3 bits. Hence, there are \\(2^3 = 8\\) possible registers.
 
+As a side note, x86 is 64-bit, which means that many bits are unused. This allows for many more opcodes in the future – which helps CISC goals.
+
 
 
 
