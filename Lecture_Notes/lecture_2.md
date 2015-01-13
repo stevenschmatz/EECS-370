@@ -100,6 +100,13 @@ mul R3 R3 3
 sub R2 R3 R1
 ```
 
+If the initial value of the registers is the following:
+* **R1**: 25
+* **R2**: -4
+* **R3**: 52
+
+What is the final result of the registers after the program executes?
+
 
 
 
