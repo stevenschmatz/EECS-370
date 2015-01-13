@@ -63,8 +63,9 @@ ISA design focuses on 3 main aspects:
 
 In specialized instruction sets, programmers are actually given a CISC instruction set which is internally converted to a RISC instruction set (with the necessary overhead, of course).
 
-## Software Porgram
+## Translation of Software into Machine Code
 
+First, you have a C program. The C program is then compiled into assembly code. This produces platform-specific instructions. For example, while iPhone compilation produces ARM assembly code, 
 
 
 
