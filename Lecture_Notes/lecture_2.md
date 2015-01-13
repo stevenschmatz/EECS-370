@@ -117,6 +117,7 @@ What is the final result of the registers after the program executes?
 
 Since EDSAC (1949), all computers store instructions in the same way that they store data. Each instruction is a number:
 * Each opcode has a unique number associated with it. For example, `add` may arbitrarily be 53.
+* Each register has a binary number associated with its number. For example, if there were sixteen registers, then each register could be enumerated from 0-15 in three bits.
 
 
 
