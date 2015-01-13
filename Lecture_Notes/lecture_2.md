@@ -119,6 +119,15 @@ Since EDSAC (1949), all computers store instructions in the same way that they s
 * Each opcode has a unique number associated with it. For example, `add` may arbitrarily be 53.
 * Each register has a binary number associated with its number. For example, if there were sixteen registers, then each register could be enumerated from 0-15 in three bits.
 
+Hence, the following commands are equal:
+```
+add     r3      r2      r1
+11011   011     010     001
+
+= 11011011010001
+```
+
+
 
 
 
