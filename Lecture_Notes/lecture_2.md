@@ -187,6 +187,9 @@ First came the **accumulator**, which was a single register architecture. Instru
 
 ### Intel x86
 
+* 4 general-purpose registers (eax, ebx, ecx, edx)
+* 32 bits per register
+
 
 
 
