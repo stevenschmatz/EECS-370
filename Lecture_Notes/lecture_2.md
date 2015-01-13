@@ -46,6 +46,8 @@ ISA design focuses on 3 main aspects:
 
 **Side note**: *Immediate operands* are constants in the instruction code, rather than using a variable such as a register.
 
+## Instruction Encoding
+
 
 
 
