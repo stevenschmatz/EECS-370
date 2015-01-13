@@ -25,6 +25,6 @@ ISA design focuses on 3 main aspects:
     * Some of these may be overlapping in function, such as multiply and divide. However, hardware implementation of these functions may differ, so those operations are more efficient.
 * **Branching**: Redirecting the flow of execution of code to different paths.
     * This happens in `if` statements, but also conditionals in `for` statements and function calls.
-* Load/store
+* **Load/store**: Moving data from one place to another. Usually involves moving information from the *processor registers* to the *DRAM*. The processor registers are memory storage 
 * `mmx_add`
     * higher level vector addition operations, not covered in this EECS 370.
