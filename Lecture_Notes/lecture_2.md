@@ -185,6 +185,8 @@ First came the **accumulator**, which was a single register architecture. Instru
 * 32 bits per register
 * Has r15 program counter, which stores the address of the next instruction. It can be read or written. Helpful for making efficient non-sequential code calls in branching.
 
+### Intel x86
+
 
 
 
