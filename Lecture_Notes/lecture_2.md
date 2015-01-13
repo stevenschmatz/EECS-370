@@ -21,7 +21,7 @@ ISA design focuses on 3 main aspects:
 
 #### Functionality
 
-* Add, multiply, divide, sqrt
+* `add`, `multiply`, `divide`, `sqrt`
 * Branching
 * Load/store
 * `mmx_add`
