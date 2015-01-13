@@ -1,4 +1,4 @@
-# Discussion 1
+# Discussion 1: C vs C++, Debugging
 
 ## Communication
 
