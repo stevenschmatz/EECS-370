@@ -77,7 +77,18 @@ This produces a file, `filename.s`, which contains the assembly code.
 
 ## Assembly Code
 
-Consists 
+Consists of **instructions**, with the following fields:
+* **Opcode**: A name of the instruction to perform. Similar to a function name in programming.
+* **Source (input)** operand: Which registers or immediate values are input to the instruction.
+* **Destination (output)** operand: Which register to store the final value in.
+
+Example:
+
+```
+add R2 100 R1
+```
+
+This adds 100 to the value of the register `R1`, and stores the final result in `R2`.
 
 
 
