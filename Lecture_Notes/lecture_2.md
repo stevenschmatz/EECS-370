@@ -1,3 +1,15 @@
 # Lecture 2: ISA – Storage and Addressing Models
 
-This is the beginning of a series of notes on the ISA – Instruction Set Architecture. The ISA is an architecture that defines the *interface between compilers, and the hardware*.
+This is the beginning of a series of notes on the ISA – Instruction Set Architecture. The ISA is an architecture that defines the *interface between compilers, and the hardware*. It is the connection layer between microarchitecture (hardware implementation of ISA), and the compilers.
+
+For example, if making a robot whose only function was to follow you around, what instructions would you want? Here are a few ideas:
+
+* `forward(speed)`
+* `back(speed)`
+* `turn`
+* `stop`
+* `run`
+
+There are a few things to note here:
+
+* ISA instructions can define **operands**, such as the operand `speed` for the `forward` command.
