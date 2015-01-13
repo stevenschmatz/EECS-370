@@ -59,6 +59,7 @@ ISA design focuses on 3 main aspects:
     * Philosophy: More commands are better. "Should we need include a `sqrt` function? Why not?"
     * **Benefits**: More specialized commands for programmers, better backwards compatibility.
     * **Drawbacks**: Reduces efficiency of each instruction.
+    * **Examples**: x86 (which we use today!), UAX
 
 
 
