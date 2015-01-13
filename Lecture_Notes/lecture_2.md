@@ -132,10 +132,11 @@ add     r3      r2      r1
 \\(m\\) bits can encode \\(2^m\\) different values.
 \\(n\\) values can be encoded in \\(\lceil \log_2(n) \rceil\\) bits
 
+## Exercise
 
-
-
-
+What is the max number of registers that can be designed by a machine given:
+* 16 bit instructions
+* Num opcodes: 100
 
 
 
