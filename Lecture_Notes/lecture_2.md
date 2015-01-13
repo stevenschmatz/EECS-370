@@ -90,6 +90,27 @@ add R2 100 R1
 
 This adds 100 to the value of the register `R1`, and stores the final result in `R2`.
 
+### Example
+
+The program is as follows:
+
+```assembly
+add R3 R1 R2
+mul R3 R3 3
+sub R2 R3 R1
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
