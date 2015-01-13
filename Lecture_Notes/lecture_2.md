@@ -153,6 +153,23 @@ As a side note, x86 is 64-bit, which means that many bits are unused. This allow
 
 ## Immediate Values
 
+* Stored in memory because all instructions are in memory
+* Useful for loading small constants
+
+For example:
+
+```cpp
+ptr++;
+```
+
+This in assembly code in LC2K is this:
+
+```
+add R2 R2 1
+```
+
+It is adding a constant value of 1 to the register.
+
 
 
 
