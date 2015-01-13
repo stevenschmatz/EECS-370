@@ -175,7 +175,9 @@ However, in ARM ISA, each address points to a **byte** in memory, so this would 
 The size of the immediate value is usually determined by how many bits are left in the instruction format.
 
 ## Register Storage
-* First came the **accumulator**, which was a single register architecture.
+First came the **accumulator**, which was a single register architecture. Instructions were of the form `add #5`. You do not need to specify the register operated on, because there is only one.
+
+## Example Architectures
 
 
 
